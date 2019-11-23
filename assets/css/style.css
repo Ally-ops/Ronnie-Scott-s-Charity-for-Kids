@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:100,200,300,400,500,600,700|Roboto&display=swap:100,200,300,400,500,600,700');
+
+
+/* ...................................colors*/
+
+.bg-color-name-title {
+    background-color: #FFD700;
+}
+
+.bg-color-what-we-do-for-kids {
+    background-color: #BA55D3;;
+}
+/* ...................................margins/padding/text*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Barlow', sans-serif;
+}
+
+
+/*....................................navigation bar*/
+
+/*nav ul {
+    list-style: none;
+    background-color: #FFF8DC;
+    text-align: left;
+    margin: 0;
+    padding: 1%;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-left: 5%;
+    color: #696969;
+    text-decoration: none;
+ 
+}
+
+nav a {
+    text-decoration: none;
+    color: #696969;
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #BA55D3;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 3px 2px;
+    
+}
+*/
+/*....................................header*/
+header {
+    margin: 0;
+}
+
+.band {
+    background: url("../images/streetparty.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 200px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5 ease-in-out;
+    -webkit-transition: all .5 ease-in-out;
+}
+
+
+.company{
+    font-family: "Barlow", sans-serif;
+    font-weight: 500;
+    font-size: 42px;
+    margin-top: 50px;
+    margin-left: 20px;
+    color:  #BA55D3;
+    text-shadow: 1px 1px;
+}
+
+.name {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    margin-top: 50px;
+    margin-left: 20px;
+    color:  #BA55D3;
+   
+}
+
+.title {
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 90px;
+    color:  #BA55D3;
+    
+}
+
+/* ...................................section*/
+ 
+/*#what-we-do-for-kids .text-center {
+    text-transform: capitalize;
+    
+}*/
+
+.what-we-do-for-kids {
+    font-family: "Barlow", sans-serif;
+    font-weight: 200;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 90px;
+    color:  #FFD700; 
+    
+
+}
+
+.iframe {
+    margin: 0px;
+    padding: 0;  
+    border: none;
+    width: auto;
+    height: auto;
+    
+}
+    
+
+/* ...................................footer*/
+
+footer {
+ background-color: #FFD700;
+    color: #A9A9A9;
+    min-height: 80px; 
+    margin: 0;
+
+}
+
+
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    
+}
+
+.social-links li a i:hover {
+    background-color:  #BA55D3
+}
+
+#footer-details {
+    padding: 20px;
+}
