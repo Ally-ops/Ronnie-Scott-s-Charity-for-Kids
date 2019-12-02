@@ -11,6 +11,9 @@
     background-color: #BA55D3;
     padding-top: 30px;
 }
+.needs-validation {
+    background-color: rgb(251, 248, 252);
+}
 /* ...................................margins/padding/text*/
 
 body {
