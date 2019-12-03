@@ -151,10 +151,22 @@ header {
     /*text-align: center;*/
     font-size: 30px;
 }
-.iframe {
+.iframe1 {
     padding-left: 0;
     padding-right: 0;
 }
+.iframe2 {
+    padding-left: 0;
+    padding-right: 0;
+    scroll-margin-bottom: 30px;
+}
+.iframe3 {
+    padding-left: 0;
+    padding-right: 0;
+    scroll-margin-bottom: 30px;
+}
+
+
 /* Source Stackoverflow https://bootstrapmaster.com/implement-responsive-youtube-vimeo-embed-iframe-twitter-bootstrap-3/ */
 .responsive-video {
     position: relative;
