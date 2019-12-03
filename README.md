@@ -68,7 +68,8 @@ Acknowledgements
 I received inspiration for this project from X
 
 Wikipedia info taken on Ronnie Scott
-Menus folder: Drinks, allergen, and main food menus courtesy of Ronnie Scotts https://www.ronniescotts.co.uk/dining-and-drinks/a-la-carte-menu
+
 Club image used for .......... IT466910_942ION http://www.londontown.com/LondonInformation/Bars_and_Clubs/Ronnie_Scotts/3057/imagesPage/14712/
 Charitable image used .......... https://www.justgiving.com/ronnie-scotts *https://images.justgiving.com/image/6bb8658e-0ed9-4360-a7b2-3db0158b05ce.jpg?template=size200x200*
 student band image https://www.bigbandinaday.co.uk/ https://1cf6cfb0-b8ca-4318-b57e-daf140d5de25.filesusr.com/ugd/65a34f_d5d2d95a8d71451ca8032508b9f039ee.pdf
+https://foundation.ronniescotts.co.uk/ https://youtu.be/rqkTZ0B_LLo (kids page video)
