@@ -95,6 +95,7 @@ header {
     margin-left: 20px;
     color:  #BA55D3;
     text-shadow: 1px 1px;
+    text-align: left;
 }
 
 .name {
@@ -104,6 +105,7 @@ header {
     margin-top: 50px;
     margin-left: 20px;
     color:  #BA55D3;
+    text-align: left;
    
 }
 
@@ -115,6 +117,7 @@ header {
     margin-left: 20px;
     margin-bottom: 90px;
     color:  #BA55D3;
+    text-align: left;
     
 }
 
@@ -144,13 +147,23 @@ header {
     
 
 }
-.what-we-do-for-kids > p {
-    font-weight: 700;
-    margin-top: 30px;
-    margin-bottom: 1rem;
-    /*text-align: center;*/
-    font-size: 30px;
+.what-we-do-for-kids, h2 {
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 1px 1px;
 }
+
+.what-we-do-for-kids, h3 {
+    font-weight: 400;
+    text-align: center;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
 .iframe1 {
     padding-left: 0;
     padding-right: 0;
@@ -198,6 +211,12 @@ header {
     margin-bottom: 90px;
     
 }
+/*.bg-color-name-contact {
+    background-color: #BA55D3;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 0.5px;
+}*/
 
 
 /* ...................................footer*/
