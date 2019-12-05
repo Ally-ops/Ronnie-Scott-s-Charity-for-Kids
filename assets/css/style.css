@@ -95,7 +95,7 @@ header {
     margin-left: 20px;
     color:  #BA55D3;
     text-shadow: 1px 1px;
-    text-align: left;
+    text-align: center;
 }
 
 .name {
@@ -105,7 +105,7 @@ header {
     margin-top: 50px;
     margin-left: 20px;
     color:  #BA55D3;
-    text-align: left;
+    text-align: center;
    
 }
 
@@ -117,7 +117,7 @@ header {
     margin-left: 20px;
     margin-bottom: 90px;
     color:  #BA55D3;
-    text-align: left;
+    text-align: center;
     
 }
 
@@ -152,7 +152,7 @@ header {
     font-size: 40px;
     text-align: center;
     text-transform: capitalize;
-    text-shadow: 1px 1px;
+   
 }
 
 .what-we-do-for-kids, h3 {
@@ -161,6 +161,7 @@ header {
     margin-top: 30px;
     padding-left: 10px;
     padding-right: 10px;
+    text-align: center;
 
 }
 
