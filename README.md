@@ -7,10 +7,11 @@ Ronnie Scott's is a Jazz Club in Soho, London. The club also operates a non-prof
 which focuses on raising funds for their goals, and is dedicated to ensuring that the next generation of jazz musicians, 
 regardless of their demographics, have access to the finest music eduction, around the UK, and abroad.
 
-I attended the Ronnis Scott's 60th Anniversary fundraising event at the Royal Albert Hall in October. As a parent of a child dedicated 
-to performing, I was impressed by the enthusiasm of all the young people performing. It reminded me of the immense amount of time and 
-effort parents/carers, and young people dedicate to performing.  I wanted to design a website that was dedicated to young people, and 
-parents/carers.
+I attended the Ronnis Scott's 60th Anniversary fundraising event at the Royal Albert Hall in October. In addition to professional artists,
+there were also a large number of kids performing, as a parent of a child dedicated to performing, I was impressed by the enthusiasm of all 
+the young people performing. It reminded me of the immense amount of time and effort parents/carers, and young people dedicate to performing.  
+I wanted to design a website that was dedicated to providing valuable information for young people, and parents/carers to give them access 
+to a wealth of choices within music.
 
 UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
