@@ -49,10 +49,8 @@ Structure - The Home page provides links to the navigation bar, signposting pare
 Scope     - Features and functions
           - Existing features; this site uses Bootstrap4 navigational bar, grid system and contact form.
             The contact form allows parents to register their details with the chairty so they can receive the information they need.
-          - Future features; Notification of upcoming events to parents and kids to increase traffic to the site.
-
-Strategy = User stories
-
+          - Features left to implement; Notification of upcoming events to parents and kids to increase traffic to the site.
+          - Future features; Link to the charity fundraising site to increase traffic to this site, and raise awareness, and fundraising.
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
@@ -65,11 +63,16 @@ In addition, you may also use this section to discuss plans for additional featu
 
 Features Left to Implement
 Another feature idea
+
+Strategy = User stories
+
+
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 JQuery
 The project uses JQuery to simplify DOM manipulation.
+
 Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
