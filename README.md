@@ -1,121 +1,167 @@
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
+  </a>
+
+  <h3 align="center">Bootstrap</h3>
+
+  <p align="center">
+    Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+    <br>
+    <a href="https://getbootstrap.com/docs/4.0/"><strong>Explore Bootstrap docs »</strong></a>
+    <br>
+    <br>
+    <a href="https://themes.getbootstrap.com/">Bootstrap Themes</a>
+    ·
+    <a href="https://jobs.getbootstrap.com/">Job Board</a>
+    ·
+    <a href="https://blog.getbootstrap.com/">Blog</a>
+  </p>
+</p>
+
+<br>
+
+## Table of contents
+
+- [Quick start](#quick-start)
+- [Status](#status)
+- [What's included](#whats-included)
+- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Community](#community)
+- [Versioning](#versioning)
+- [Creators](#creators)
+- [Copyright and license](#copyright-and-license)
+
+## Quick start
+
+Several quick start options are available:
+
+- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0.zip)
+- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+- Install with [npm](https://www.npmjs.com/): `npm install bootstrap`
+- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@4.0.0`
+- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:4.0.0`
+- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap -Pre` Sass: `Install-Package bootstrap.sass -Pre` (`-Pre` is only required until Bootstrap v4 has a stable release).
+
+Read the [Getting started page](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+
+## Status
+
+[![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com/)
+[![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://travis-ci.org/twbs/bootstrap)
+[![npm version](https://img.shields.io/npm/v/bootstrap.svg)](https://www.npmjs.com/package/bootstrap)
+[![Gem version](https://img.shields.io/gem/v/bootstrap.svg)](https://rubygems.org/gems/bootstrap)
+[![Meteor Atmosphere](https://img.shields.io/badge/meteor-twbs%3Abootstrap-blue.svg)](https://atmospherejs.com/twbs/bootstrap)
+[![Packagist Prerelease](https://img.shields.io/packagist/vpre/twbs/bootstrap.svg)](https://packagist.org/packages/twbs/bootstrap)
+[![NuGet](https://img.shields.io/nuget/vpre/bootstrap.svg)](https://www.nuget.org/packages/bootstrap/absoluteLatest)
+[![peerDependencies Status](https://img.shields.io/david/peer/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=peer)
+[![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
+[![CSS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/css/bootstrap.min.css?compression=gzip&label=CSS+gzip+size)](https://github.com/twbs/bootstrap/tree/v4-dev/dist/css/bootstrap.min.css)
+[![JS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/js/bootstrap.min.js?compression=gzip&label=JS+gzip+size)](https://github.com/twbs/bootstrap/tree/v4-dev/dist/js/bootstrap.min.js)
+
+[![Sauce Labs Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
+
+## What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+```
+bootstrap/
+├── css/
+│   ├── bootstrap.css
+│   ├── bootstrap.css.map
+│   ├── bootstrap.min.css
+│   ├── bootstrap.min.css.map
+│   ├── bootstrap-grid.css
+│   ├── bootstrap-grid.css.map
+│   ├── bootstrap-grid.min.css
+│   ├── bootstrap-grid.min.css.map
+│   ├── bootstrap-reboot.css
+│   ├── bootstrap-reboot.css.map
+│   ├── bootstrap-reboot.min.css
+│   └── bootstrap-reboot.min.css.map
+└── js/
+    ├── bootstrap.bundle.js
+    ├── bootstrap.bundle.min.js
+    ├── bootstrap.js
+    └── bootstrap.min.js
+```
+
+We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). CSS [source maps](https://developers.google.com/web/tools/chrome-devtools/debug/readability/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/), but not [jQuery](https://jquery.com/).
 
 
+## Bugs and feature requests
 
-Ronnie Scott's Kids' Charity
-
-UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and 
-how your project is the best way to help them achieve these things.
-
-Ronnie Scott's is a Jazz Club in Soho, London. The club also operates a non-profit organisation (Ronnie Scott's Kids' Charity) 
-which focuses on raising funds for their goals, and is dedicated to ensuring that the next generation of jazz musicians, 
-regardless of their demographics, have access to the finest music eduction, around the UK, and abroad.
-
-I attended the Ronnis Scott's 60th Anniversary fundraising event at the Royal Albert Hall in October 2019. In addition to professional artists,
-there were also a large number of kids performing, as a parent of a child dedicated to performing, I was impressed by the enthusiasm of all 
-the young people performing. It reminded me of the immense amount of time and effort parents/carers, and young people dedicate to performing.  
-I wanted to design a website that was dedicated to providing valuable information for young people, and parents/carers to give them access 
-to a wealth of choices within music.
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
 
 
-As a parent, I want to find out what is expected of my child so that I can discuss what the charity will expect from us.
+## Documentation
 
-As a kid, I want to see videos or images of kids my age playing music so that I can see what a real-life experience is like.
+Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](https://jekyllrb.com/) and publicly hosted on GitHub Pages at <https://getbootstrap.com/>. The docs may also be run locally.
 
-As admin, I want to be able to have contact details for parents/carers so that I can contact them with classes in their area.
+Documentation search is powered by [Algolia's DocSearch](https://community.algolia.com/docsearch/). Working on our search? Be sure to set `debug: true` in the `_scripts.html` include.
 
-As a parent, I want to find out what times/days music classes are run so that I can work out if this fits in with the rest of 
-the family commitments.
+### Running documentation locally
 
-As a kid, I want to see videos or testimonial of kids my age so that I know how they felt when they first joined a class.
+1. Run through the [tooling setup](https://getbootstrap.com/docs/4.0/getting-started/build-tools/#tooling-setup) to install Jekyll (the site builder) and other Ruby dependencies with `bundle install`.
+2. Run `npm install` to install Node.js dependencies.
+3. Run `npm run test` (or a specific NPM script) to rebuild distributed CSS and JavaScript files, as well as our docs assets.
+4. From the root `/bootstrap` directory, run `npm run docs-serve` in the command line.
+5. Open `http://localhost:9001` in your browser, and voilà.
 
-As admin, I want kids and parents/carers to share information about our charity so that we raise awareness of our fundraising.
+Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/home/).
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+### Documentation for previous releases
 
-As a user type, I want to perform an action, so that I can achieve a goal.
+- For v2.3.2: <https://getbootstrap.com/2.3.2/>
+- For v3.3.x: <https://getbootstrap.com/docs/3.3/>
 
-Surface  -  The color scheme of green, purple, and gold was chosen as they are warm welcoming colors that may help to evoke emotion, 
-            and imagination in the kids, and parents visiting the site.
-
-Skeleton  - Wireframes define the placement layout of Home, Kids, Parents, and Contact pages.
-
-Structure - The Home page provides links to the navigation bar, signposting parents and kids to their individual pages which lead them 
-            to contact details, personal information input, and videos/links to classes held across the UK.
-          - Parents use their page to find out about their, and their childs ode of conduct, and locations, and times of classes.
-          - the kids page uses videos to show real-life experiences, and provides classes and locations.
-          - The contact page gives admin information on both parents and the kids so they can signpost them in the right direction.
-
-Scope     - Features and functions
-          - Existing features; this site uses Bootstrap4 navigational bar, grid system and contact form.
-            The contact form allows parents to register their details with the chairty so they can receive the information they need.
-          - Features left to implement; Notification of upcoming events to parents and kids to increase traffic to the site.
-          - Future features; Link to the charity fundraising site to increase traffic to this site, and raise awareness, and fundraising.
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-Features Left to Implement
-Another feature idea
-
-Strategy = User stories
+[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
 
 
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+## Contributing
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/master/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org/>.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+## Community
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+Get updates on Bootstrap's development and chat with the project maintainers and community members.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
+- Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
+- Join [the official Slack room](https://bootstrap-slack.herokuapp.com/).
+- Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
+- Implementation help may be found at Stack Overflow (tagged [`bootstrap-4`](https://stackoverflow.com/questions/tagged/bootstrap-4)).
+- Developers should use the keyword `bootstrap` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/browse/keyword/bootstrap) or similar delivery mechanisms for maximum discoverability.
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+## Versioning
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
 
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com/) contain summaries of the most noteworthy changes made in each release.
 
-Wikipedia info taken on Ronnie Scott
-https://www.w3schools.com/bootstrap/bootstrap_forms_sizing.asp
-Club image used for .......... IT466910_942ION http://www.londontown.com/LondonInformation/Bars_and_Clubs/Ronnie_Scotts/3057/imagesPage/14712/
-Charitable image used .......... https://www.justgiving.com/ronnie-scotts *https://images.justgiving.com/image/6bb8658e-0ed9-4360-a7b2-3db0158b05ce.jpg?template=size200x200*
-student band image https://www.bigbandinaday.co.uk/ https://1cf6cfb0-b8ca-4318-b57e-daf140d5de25.filesusr.com/ugd/65a34f_d5d2d95a8d71451ca8032508b9f039ee.pdf
-https://foundation.ronniescotts.co.uk/ https://youtu.be/rqkTZ0B_LLo (kids page video)
-The text for the section Great User Stories was guided by - https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/
 
-The color scheme for the surface section was from - https://www.pagecloud.com/blog/website-design-trends-2019, https://www.empower-yourself-with-color-psychology.com/meaning-of-colors.html
-What features I would like to add in the future - contact form for times/days/areas so admin can build a database of interest/demographics
+## Creators
+
+**Mark Otto**
+
+- <https://twitter.com/mdo>
+- <https://github.com/mdo>
+
+**Jacob Thornton**
+
+- <https://twitter.com/fat>
+- <https://github.com/fat>
+
+
+## Copyright and license
+
+Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
