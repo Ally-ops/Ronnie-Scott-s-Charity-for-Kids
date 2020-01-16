@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1d32080c22c60e0ec20a31ab3179b31fc99755b0
 Ronnie Scott's Kids' Charity 
 
 UX  
@@ -164,6 +167,7 @@ The CSS code was put through the CSS Validator to check for errors.
 
 
 
+<<<<<<< HEAD
 Ronnie Scott's Kids' Charity
 
 UX
@@ -282,3 +286,35 @@ The text for the section Great User Stories was guided by - https://stormotion.i
 
 The color scheme for the surface section was from - https://www.pagecloud.com/blog/website-design-trends-2019, https://www.empower-yourself-with-color-psychology.com/meaning-of-colors.html
 What features I would like to add in the future - contact form for times/days/areas so admin can build a database of interest/demographics
+=======
+
+Running the project locally 
+
+Follow these steps if you wish to run the project locally: 
+
+go to the repository page on GitHub 
+
+click the "clone or download" button on the right-hand side 
+
+copy the URL that shows up 
+
+in Terminal, change the current working directory to the location where you want the cloned directory to be made 
+
+type 'git clone' and paste the URL from step 2 
+
+press enter 
+
+the local clone will be created 
+
+These instructions are taken from this GitHub help page 
+
+ 
+
+
+
+  
+
+all the icons on the website are from Font Awesome. 
+
+© 2020 GitHub, Inc. 
+>>>>>>> 1d32080c22c60e0ec20a31ab3179b31fc99755b0
