@@ -197,7 +197,7 @@ These instructions are taken from this GitHub help page
 
   
 
-all the icons on the website are from Font Awesome. 
+all the icons on the website are from Font Awesome 
 
 © 2020 GitHub, Inc. 
->>>>>>> 1d32080c22c60e0ec20a31ab3179b31fc99755b0
+
