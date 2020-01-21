@@ -201,4 +201,4 @@ all the icons on the website are from Font Awesome
 
 © 2020 GitHub, Inc. 
 
->>>>>>> 2a5bfbd84624bf9c9ecc4db6efc34da9ad1ffb2b
+
