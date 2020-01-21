@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Ronnie Scott's Kids' Charity 
 
 ## UX  
