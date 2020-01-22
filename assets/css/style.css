@@ -161,6 +161,14 @@ header {
     padding-right: 0;
     scroll-margin-bottom: 30px;
 }
+.bg-color-kids-info {
+    margin-top: 25px;
+}
+
+.bg-color-parents-info {
+    margin-top: 25px;
+}
+
 
 
 /* Source Stackoverflow https://bootstrapmaster.com/implement-responsive-youtube-vimeo-embed-iframe-twitter-bootstrap-3/ */
