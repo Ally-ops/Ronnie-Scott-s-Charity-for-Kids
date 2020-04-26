@@ -103,6 +103,19 @@ JQuery was used to simplify DOM manipulation.
 
 https://www.10bestdesign.com/dirtymarkup/
 
+## Deployment
+
+I used the following link to deploy my project to Github pages: https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+Home page; all of the links in the navbar work, and the media player functions.
+Kids page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
+Parents page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
+Contact page; Fields in contact form can be filled out but the 'Submit form' button does not work as I have not learnt this yet. 
+
+
+Github Pages Guide
+I live demo of my website can be found here:
+
 ## Credits 
 
 ... Acknowledgements I received inspiration for this project from X 
