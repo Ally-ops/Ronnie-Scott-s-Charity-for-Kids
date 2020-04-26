@@ -90,16 +90,16 @@ Testimonials: add testimonials from kids and parents to highlight the experience
 Gallery: introduce a gallery to showcase the wide range of activities that kids and parents can participate in. 
 
 ## Technologies used 
-
-The following technologies were used to build my website: 
-
+ 
 HTML and CSS were the core languages used to build website. 
 
-Bootstrap: was used to create a uniform design that is visually appealing, and responsive to different screen sizes with the mobile first approach. 
+Bootstrap: used to create a uniform design that is visually appealing, and responsive to different screen sizes using the mobile first approach. 
 
 Google Fonts: used throughout the website. 
 
 JQuery was used to simplify DOM manipulation. 
+
+Font Awesome 
 
 https://www.10bestdesign.com/dirtymarkup/
 
@@ -107,40 +107,25 @@ https://www.10bestdesign.com/dirtymarkup/
 
 I used the following link to deploy my project to Github pages: https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
+A link to my website can be found here: http ................
+
 Home page; all of the links in the navbar work, and the media player functions.
 Kids page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
 Parents page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
 Contact page; Fields in contact form can be filled out but the 'Submit form' button does not work as I have not learnt this yet. 
 
+## Deployment
 
-Github Pages Guide
-I live demo of my website can be found here:
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
-## Credits 
+In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
 
-... Acknowledgements I received inspiration for this project from X 
+Different values for environment variables (Heroku Config Vars)?
+Different configuration files?
+Separate git branch?
+In addition, if it is not obvious, you should also describe how to run your code locally.
 
-The videos used in this site were obtained from YouTube via Ronnie Scott’s Charity, and Ronnie Scott’s Club.  
 
-Logo image: 
-
-https://images.justgiving.com/image/6bb8658e-0ed9-4360-a7b2-3db0158b05ce.jpg?template=size200x200  
-
-Student band image: (Top left of every page.) 
-
-https://www.bing.com/images/search?view=detailV2&ccid=80rP81nf&id=FF5165453A6F98310F5A414C759FD9B8EA7678B9&thid=OIP.80rP81nfc5NOqwFx917BHQHaEK&mediaurl=https%3a%2f%2f88f8efaf42239bdab4eb-69d152e9f01b96481f8d016f75a1f290.ssl.cf3.rackcdn.com%2fbank%2fSTREETPARTYARTISTBANNER.jpg&exph=506&expw=900&q=ronnie+scotts+anniverary+images&simid=608028464954278204&selectedIndex=65&ajaxhist=0  
-
-Home page media: https://www.youtube.com/watch?time_continue=10&v=rqkTZ0B_LLo&feature=emb_logo 
-
-Kids page media: https://www.youtube.com/watch?v=4KNJ_udkVbU 
-
-Parents page media: https://www.youtube.com/watch?v=0GT2IhAfwsI&list=PL3HS2t2Ng-mGkxmD3fK7_QPrGj4WcHvW6&index=8 
-
-The text for the section Great User Stories was guided by - https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/ 
-
-The color scheme for the existing features section was from: - https://www.pagecloud.com/blog/website-design-trends-2019, https://www.empower-yourself-with-color-psychology.com/meaning-of-colors.html What features I would like to add in the future - contact form for times/days/areas so admin can build a database of interest/demographics 
-
-Inspiration for README.md file from: Sarani1612/the-nimble-thimble 
 
 ## Testing 
 
@@ -154,65 +139,32 @@ Whenever it is feasible, prefer to automate your tests, and if you've done so, p
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
+
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+## Credits 
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+Logo image: https://images.justgiving.com/image/6bb8658e-0ed9-4360-a7b2-3db0158b05ce.jpg?template=size200x200  
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+Student band image: (Top left of every page.) 
+https://www.bing.com/images/search?view=detailV2&ccid=80rP81nf&id=FF5165453A6F98310F5A414C759FD9B8EA7678B9&thid=OIP.80rP81nfc5NOqwFx917BHQHaEK&mediaurl=https%3a%2f%2f88f8efaf42239bdab4eb-69d152e9f01b96481f8d016f75a1f290.ssl.cf3.rackcdn.com%2fbank%2fSTREETPARTYARTISTBANNER.jpg&exph=506&expw=900&q=ronnie+scotts+anniverary+images&simid=608028464954278204&selectedIndex=65&ajaxhist=0  
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+The videos used in this site were obtained from YouTube via Ronnie Scott’s Charity, and Ronnie Scott’s Club.  
 
-Wikipedia info taken on Ronnie Scott
-https://www.w3schools.com/bootstrap/bootstrap_forms_sizing.asp
-Club image used for .......... IT466910_942ION http://www.londontown.com/LondonInformation/Bars_and_Clubs/Ronnie_Scotts/3057/imagesPage/14712/
-Charitable image used .......... https://www.justgiving.com/ronnie-scotts *https://images.justgiving.com/image/6bb8658e-0ed9-4360-a7b2-3db0158b05ce.jpg?template=size200x200*
-student band image https://www.bigbandinaday.co.uk/ https://1cf6cfb0-b8ca-4318-b57e-daf140d5de25.filesusr.com/ugd/65a34f_d5d2d95a8d71451ca8032508b9f039ee.pdf
-https://foundation.ronniescotts.co.uk/ https://youtu.be/rqkTZ0B_LLo (kids page video)
-The text for the section Great User Stories was guided by - https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/
+Home page media: https://www.youtube.com/watch?time_continue=10&v=rqkTZ0B_LLo&feature=emb_logo 
 
-The color scheme for the surface section was from - https://www.pagecloud.com/blog/website-design-trends-2019, https://www.empower-yourself-with-color-psychology.com/meaning-of-colors.html
+Kids page media: https://www.youtube.com/watch?v=4KNJ_udkVbU 
 
+Parents page media: https://www.youtube.com/watch?v=0GT2IhAfwsI&list=PL3HS2t2Ng-mGkxmD3fK7_QPrGj4WcHvW6&index=8 
 
-Running the project locally 
+The text for the User Stories was guided by: https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/ 
 
-Follow these steps if you wish to run the project locally: 
+The inspiration for the color scheme for the existing features section was from: https://www.pagecloud.com/blog/website-design-trends-2019, https://www.empower-yourself-with-color-psychology.com/meaning-of-colors.html What features I would like to add in the future - contact form for times/days/areas so admin can build a database of interest/demographics 
 
-go to the repository page on GitHub 
-
-click the "clone or download" button on the right-hand side 
-
-copy the URL that shows up 
-
-in Terminal, change the current working directory to the location where you want the cloned directory to be made 
-
-type 'git clone' and paste the URL from step 2 
-
-press enter 
-
-the local clone will be created 
-
-These instructions are taken from this GitHub help page 
-
+Inspiration for README.md file from: Sarani1612/the-nimble-thimble 
  
-
-
-
-  
-
-all the icons on the website are from Font Awesome 
 
 © 2020 GitHub, Inc. 
 
