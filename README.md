@@ -164,6 +164,7 @@ The text for the User Stories was guided by: https://stormotion.io/blog/how-to
 The inspiration for the color scheme for the existing features section was from: https://www.pagecloud.com/blog/website-design-trends-2019, https://www.empower-yourself-with-color-psychology.com/meaning-of-colors.html What features I would like to add in the future - contact form for times/days/areas so admin can build a database of interest/demographics 
 
 Inspiration for README.md file from: Sarani1612/the-nimble-thimble 
+Info on how to test my website: https://developers.google.com/web/tools/chrome-devtools/device-mode/
  
 
 © 2020 GitHub, Inc. 
