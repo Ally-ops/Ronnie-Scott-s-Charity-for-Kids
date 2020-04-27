@@ -107,7 +107,7 @@ https://www.10bestdesign.com/dirtymarkup/
 
 I used the following link to deploy my project to Github pages: https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
-A link to my website can be found here: http ................
+A link to my website can be found here: https://ally-ops.github.io/Ronnie-Scott-s-Charity-for-Kids/
 
 Home page; all of the links in the navbar work, and the media player functions.
 Kids page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
