@@ -120,20 +120,24 @@ Contact page; Fields in contact form can be filled out but the 'Submit form' but
 
 ## Testing 
 
-The HTML code for all four pages was put through the HTML Validator to check for errors. 
-The CSS code was put through the CSS Validator to check for errors. 
+The parent, kid, and admin user story has achieved the intended result; kids can view media showcasing young talent, and can also access information to different workshops and events around the UK both in the kids page, and in the parent page via a link. 
 
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The parents page gives them some background media information showcasing what the charity is about, and gives them links to locations, and the contact page enables them to contact the administrator to receive further information about what is available in their area. 
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+The administrator will be provided with enough information from the parent/carer to add them to their database and send information regarding venues, charitable donatation, charitable events, and any other relevant information which is required by either party.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+It is not possible to submit the contact form as I have not covered this work yet. So is something that needs to be updated in the future. All of the links to information work in Chrome, Safari, and Firefox, you then have to press the back button to return to the website.
 
+During testing I also realised that the toggle button in the navbar did not work; this turned out to be some typos in my code which have now been rectified.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+The links in the navbar are toggled in resolutions less than 764 x 1328 in Chrome, all links in the navbar work, but if you re-hit the home button a second time it will revert to 404 page not found. Something else to be resolved in the future. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+This site was tested on Chrome, Safari, and FireFox, and on multiple mobile devices and on iPad, and Samsung Galaxy to ensure compatibility and responsiveness. 
+
+## Issues to be resolved
+
+In Chrome there is a white band to the right side of the devices on iphone5/se, Galaxy S5, and iphonex.
+In Firefox, and Safari all the text is aligned to the left, the footer bar is white instead of gold, and the social media icons are blue not grey.
 
 ## Credits 
 
