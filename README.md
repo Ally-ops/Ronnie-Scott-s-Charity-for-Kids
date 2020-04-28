@@ -110,9 +110,7 @@ I used the following link to deploy my project to Github pages: https://help.git
 
 A link to my website can be found here: https://ally-ops.github.io/Ronnie-Scott-s-Charity-for-Kids/
 
-To run this locally clone this repository into your editor by pasting git clone .........   into your terminal. 
-
-
+To run this locally on your terminal clone this repository into your editor by pasting git clone https://github.com/Ally-ops/Ronnie-Scott-s-Charity-for-Kids.git into your terminal. 
 
 Home page; all of the links in the navbar work, and the media player functions.
 Kids page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
