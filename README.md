@@ -2,9 +2,7 @@
 
 ## UX  
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things. In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure: 
-
-Ronnie Scott's is a Jazz Club in Soho, London. The club also operates a non-profit organisation (Ronnie Scott's Kids' Charity) which focuses on raising funds for their goals, and is dedicated to ensuring that the next generation of jazz musicians, regardless of their demographics, have access to the finest music education, in the UK, and abroad. 
+Ronnie Scott's is a Jazz Club in Soho, London. The club also operates a non-profit organisation (Ronnie Scott's Kids' Charity) which focuses on raising funds for their goals, and is dedicated to ensuring that the next generation of jazz musicians, regardless of their demographics, have access to the finest music education in the UK, and abroad. 
 
 I attended the Ronnie Scott's 60th Anniversary fundraising event at the Royal Albert Hall in October 2019. In addition to professional artists, there was also a large number of kids performing, and as a parent of a child dedicated to performing, I was impressed by the enthusiasm of all the young people performing. It reminded me of the immense amount of time and effort parents/carers, and young people dedicate to performing. 
 I wanted to design a website that was dedicated to providing valuable information for young people, and parents/carers to give them access to a wealth of choices within the jazz music industry. 
@@ -44,7 +42,7 @@ These wireframes were made using Balsamiq.
 ## Features 
 
 The website uses Bootstrap4 to define the grid layout, the navigation bar, and the contact form. The website consists of four pages: Home, Kids, Parents and Contact.  
-The pages use the have the same navigation bar at the top of the page with the name of the business in the left-hand side and links to pages on the right-hand side. They all have the same footer with copyright info and links to social media pages; Facebook, Twitter, Instagram and Youtube. 
+The pages have the same navigation bar at the top of the page with the name of the business in the left-hand side and links to pages on the right-hand side (these are toggled for mobile devices). They all have the same footer with copyright info and links to social media pages; Facebook, Twitter, Instagram and Youtube. 
 
  
 ## Home 
@@ -53,7 +51,7 @@ The home page consists of the charity name a photo image in the top left includi
 
 ## Kids 
 
-The kids page features the same image as the home page in the top left and the same strap line as the home page. as the home page in the top left and the same strap line as the home page This page also contains a video showing a members’ first solo appearance in a jazz band to highlight that kids really do get an opportunity to showcase their talent. 
+The kids page features the same image as the home page in the top left, for contnuity, and the same strap line as the home page. This page also contains a video showing a members’ first solo appearance in a jazz band to highlight that kids really do get an opportunity to showcase their talent. 
 
 There is also a text section giving information on after school clubs, workshops, and performances, with links to each area to provide further information to kids on how to contact the clubs. 
 
@@ -65,15 +63,15 @@ There is also a section containing locations, along with a code of conduct secti
 
 ## Contact 
 
-The contact page features the same image as the home page in the top left, and contact details of the charity. There is also a contact form which requests details of the parent/carer and the child so that admin can signpost visitors to the correct area of the UK. There are input fields for name, phone number, email and message and these are followed by a submit button. 
+The contact page features the same image as the home page in the top left, and contact details of the charity. There is also a contact form which requests details of the parent/carer and the child so that admin can signpost visitors to the correct area in the UK. There are input fields for name, phone number, email and message and these are followed by a submit button (this does not work as I have not learnt how to do that yet). 
 
 ## Existing features 
 
 Colour scheme: The colour scheme of green, purple, and gold was chosen to link all the content together, as they are warm colours that help to evoke emotion, and imagination in the kids, and parents visiting the site. 
 
-Navigation bar: The navigation bar uses Bootstrap4 and is continuous through all four pages; it is dark grey with the logo and charity name in white to ensure they are prominent. The navigation buttons stand out in white, with a hover from light grey to white. 
+Navigation bar: The navigation bar uses Bootstrap4 and is continuous through all four pages; it is dark grey with the logo and charity name in white to ensure they are prominent. The navigation buttons stand out in white, with a hover from light grey to white for resolutions above 764x1328, button is toggled on smaller devices. 
 
-The navigation bar is fixed to the top for ease of use so that kids and parents do not need to scroll back to the top when they want to visit a different page.so that it is always visible even when scrolling down 
+The navigation bar is fixed to the top for ease of use so that kids and parents do not need to scroll back to the top when they want to visit a different page.so that it is always visible even when scrolling down. 
 
 Footer: There is a footer on all four pages which contains copyright info and links to social media (Facebook, Twitter, Instagram, and YouTube, so that visitors to the site can find additional information relating to both classes, events, and the charity. 
 
@@ -103,28 +101,23 @@ Font Awesome
 
 https://www.10bestdesign.com/dirtymarkup/
 
+https://validator.w3.org/nu/#textarea
+
+
 ## Deployment
 
 I used the following link to deploy my project to Github pages: https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 A link to my website can be found here: https://ally-ops.github.io/Ronnie-Scott-s-Charity-for-Kids/
 
+To run this locally clone this repository into your editor by pasting git clone .........   into your terminal. 
+
+
+
 Home page; all of the links in the navbar work, and the media player functions.
 Kids page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
 Parents page; all of the links in the navbar work, and the media player functions. All of the links to the external websites work.
 Contact page; Fields in contact form can be filled out but the 'Submit form' button does not work as I have not learnt this yet. 
-
-## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
 
 
 ## Testing 
